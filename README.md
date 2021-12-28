@@ -1,4 +1,6 @@
+This is a React project that I worked on, and it utilizes React Hooks, useState and useEffect, extensively to capitalize the React state to function components. The list of people's birthday is organized by calling the API data, and the webpage is designed by extensive usage of CSS color and grid system.
 ![](images/image.png)
+useState and useEffect are two of the most important and frequently used hooks in React, and understanding each concept is crucial to incorporating React to the UI framework and connecting to backend servers. 
 
 
 
